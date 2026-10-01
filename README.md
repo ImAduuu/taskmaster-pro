@@ -1,38 +1,39 @@
+# TODO App in javascript html and css
 
+This is a simple todo application made with HTML, CSS and Javascript
 
-# 🚀 TaskMaster Pro
+### How to run the App
+running the todo app is very simple - just open the `index.html` file in your browser. 
 
-A modern, high-performance task management application designed with a dark glassmorphism interface. Built with pure HTML, CSS, and modern JavaScript, **TaskMaster Pro** provides an intuitive experience for tracking daily productivity with real-time statistics and local storage persistence.
+## Preview of the TODO App
 
-![TaskMaster Pro Banner](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+<img src="https://i.imgur.com/lhWAtPR.png"/> <br> <br> <img src="https://i.imgur.com/3TlcB9q.gif"/>
 
----
+<h1 align="center"><a href="https://todo-app-by-aklilu-mandefro.netlify.app/">Live Demo of the TODO App</a></h1>
 
-## ✨ Key Features
+## Contribute to this project
 
-- 🎨 **Modern Glassmorphism UI:** Dark-mode aesthetic with smooth hover effects and glass blur backdrop filters.
-- 📊 **Real-time Analytics:** Visual progress bar and stats counter tracking completed vs. pending tasks.
-- 🔍 **Instant Search & Filter:** Quick search bar and quick filters (`All`, `Pending`, `Completed`).
-- 🚩 **Priority Management:** Color-coded priority tags (`High`, `Medium`, `Low`) for efficient organization.
-- 💾 **Local Storage Persistence:** Keeps your data saved automatically across browser sessions.
-- 📱 **Fully Responsive:** Mobile-first layout optimized for all screen sizes.
-- 🔔 **Interactive Toast Feedback:** Real-time feedback for task creation, edits, and deletions.
+Thank you for browsing this repo. Any contributions you make are **greatly
+appreciated**.
 
----
+If you have a suggestion that would make this better, please fork the repo and
+create a pull request. You can also simply open an issue with the tag
+"enhancement". Don't forget to give the project a star! Thanks again!
 
-## 🛠️ Tech Stack
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-- **HTML:** Semantic layout structure.
-- **CSS:** Custom CSS variables, Flexbox, Grid, and Glassmorphism styling.
-- **JavaScript (ES6+):** Dynamic DOM manipulation and Local Storage API.
-- **Bootstrap 5 & FontAwesome:** Layout utilities and modern icon set.
+## Raise An Issue
+  <p align="left">
+    <a href="https://github.com/Aklilu-Mandefro/todo-app-in-javascript-html-and-css/issues">Request Feature</a><br>
+    <a href="https://github.com/Aklilu-Mandefro/todo-app-in-javascript-html-and-css/issues">Report Bug</a>
+  </p>
+  
+  <br>
+Made with :heart: by <a href="https://github.com/Aklilu-Mandefro" target="_blank">Aklilu Mandefro</a>
 
----
+## Please give this repo a ⭐ if you found it helpful.
 
-## 📂 Project Structure
-
-```text
-├── index.html       # Application HTML structure & modal dialogs
-├── style.css        # Custom CSS styles, glassmorphism & responsive layout
-└── main.js          # App state management, search logic & LocalStorage handler
