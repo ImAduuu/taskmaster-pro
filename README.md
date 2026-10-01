@@ -2,9 +2,10 @@
 
 A modern task management application built with dark glassmorphism UI, real-time progress tracking, task search/filtering, and local storage persistence.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-6366f1?style=for-the-badge&logo=github)]
+![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-6366f1?style=for-the-badge&logo=github)
+![GitHub Page]([https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-6366f1?style=for-the-badge&logo=github](https://github.com/ImAduuu/taskmaster-pro))
 
-🔗 **Live Demo:** [https://imaduuu.github.io/taskmaster-pro/](https://imaduuu.github.io/taskmaster-pro/)
+🔗 **Live Demo click here :** [https://imaduuu.github.io/taskmaster-pro/](https://imaduuu.github.io/taskmaster-pro/)
 
 ---
 
