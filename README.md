@@ -1,39 +1,35 @@
-# TODO App in javascript html and css
+# ⚡ TaskMaster Pro
 
-This is a simple todo application made with HTML, CSS and Javascript
+A modern task management application built with dark glassmorphism UI, real-time progress tracking, task search/filtering, and local storage persistence.
 
-### How to run the App
-running the todo app is very simple - just open the `index.html` file in your browser. 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-6366f1?style=for-the-badge&logo=github)](https://imaduuu.github.io/taskmaster-pro/)
+![Status](https://img.shields.io/badge/Status-Completed-10b981?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-3b82f6?style=for-the-badge)
 
-## Preview of the TODO App
+🔗 **Live Demo:** [https://imaduuu.github.io/taskmaster-pro/](https://imaduuu.github.io/taskmaster-pro/)
 
-<img src="https://i.imgur.com/lhWAtPR.png"/> <br> <br> <img src="https://i.imgur.com/3TlcB9q.gif"/>
+---
 
-<h1 align="center"><a href="https://todo-app-by-aklilu-mandefro.netlify.app/">Live Demo of the TODO App</a></h1>
+## ✨ Features
 
-## Contribute to this project
+- 🎨 **Glassmorphism Design:** Dark mode aesthetic with backdrop blur effects.
+- 📊 **Progress Analytics:** Real-time task completion rate and status counts.
+- 🔍 **Search & Filters:** Quick search and filter by `All`, `Pending`, or `Completed`.
+- 🏷️ **Priority Levels:** Color-coded `High`, `Medium`, and `Low` priority tags.
+- 💾 **Local Storage:** Automatic data persistence across sessions.
+- 📱 **Fully Responsive:** Optimized for desktop, tablet, and mobile screens.
 
-Thank you for browsing this repo. Any contributions you make are **greatly
-appreciated**.
+---
 
-If you have a suggestion that would make this better, please fork the repo and
-create a pull request. You can also simply open an issue with the tag
-"enhancement". Don't forget to give the project a star! Thanks again!
+## 🛠️ Tech Stack
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **UI Framework & Icons:** Bootstrap 5, FontAwesome 6
 
-## Raise An Issue
-  <p align="left">
-    <a href="https://github.com/Aklilu-Mandefro/todo-app-in-javascript-html-and-css/issues">Request Feature</a><br>
-    <a href="https://github.com/Aklilu-Mandefro/todo-app-in-javascript-html-and-css/issues">Report Bug</a>
-  </p>
-  
-  <br>
-Made with :heart: by <a href="https://github.com/Aklilu-Mandefro" target="_blank">Aklilu Mandefro</a>
+---
 
-## Please give this repo a ⭐ if you found it helpful.
+## 🚀 Quick Start
 
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/ImAduuu/taskmaster-pro.git](https://github.com/ImAduuu/taskmaster-pro.git)
